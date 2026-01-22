@@ -6,7 +6,7 @@ This repository contains the reverse engineering of the Pokawa signature mechani
 
 To reverse the API, I used ADB connected to a Bluestacks emulator (android 13 i believe) to intercept and analyze the traffic from the Pokawa mobile application. This allowed me to retrieve the necessary API endpoints and understand the request signing process.
 
-[Nox Emulator](https://www.bluestacks.com/)
+[Bluestacks](https://www.bluestacks.com/)
 
 It is important to note that the signature generation mechanism is identical between the web application and the mobile app.
 
